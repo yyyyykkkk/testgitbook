@@ -1,5 +1,4 @@
-_bookPath=/godata/pipelines/agent1_pipeline1
-# rm -rf $_bookPath"/_book"
+_bookPath=/godata/pipelines/agent1_pipeline1/
 cd $_bookPath
 gitbook init
 gitbook install
