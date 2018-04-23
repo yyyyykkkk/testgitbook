@@ -1,10 +1,11 @@
 {
+    
    "plugins": [
         "-sharing",
         "-livereload",
         "mermaid-gb3",
         "multipart",
-        "theme-comscore",
-        "todo"
-    ]
+        "theme-comscore"
+        
+    ] 
 }
